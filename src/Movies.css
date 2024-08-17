@@ -1,0 +1,15 @@
+.background{
+    background-color: seagreen;
+    border: solid gray;
+}
+.select{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.btn{
+   width: 150px;
+   height: 45px;
+}
